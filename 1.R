@@ -6,5 +6,4 @@ print('Hello World')
 indometh <- data("Indometh")
 summary(Indometh)
 
-# var time
-var(Indometh$time)
+# ini diketik di cabang1
